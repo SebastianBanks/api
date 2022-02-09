@@ -1,10 +1,16 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. body
+2. It gets all post
+3. api/posts?id=555
+4.200, 409
+5. api/posts
+{
+    "text": "sebastian"
+}
+6. api/posts?id=497
+{
+    "text": "green"
+}
+7. api/posts/filter?text=blue
+8. application/json;charset=utf-8
+9. missing text
+10. It gets all the post because that's what get does

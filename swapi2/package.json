@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianBanks/api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianBanks/api/issues"
+  },
+  "homepage": "https://github.com/SebastianBanks/api#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
